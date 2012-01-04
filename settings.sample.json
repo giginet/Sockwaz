@@ -1,0 +1,7 @@
+{
+  "consumer_key" : "yourconsumerkey",
+  "consumer_secret" : "yourconsumersecret",
+  "access_token_key" : "youraccesstokenkey",
+  "access_token_secret" : "youraccesstokensecret",
+  "tracks" : ["ggjsap", "kawaz", "ねむい", "おなかすいた"]
+}
