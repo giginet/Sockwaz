@@ -1,4 +1,4 @@
-for package in express twitter-node socket.io
+for package in express ntwitter socket.io
 do
   npm install $package
 done
