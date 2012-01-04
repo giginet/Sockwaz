@@ -3,5 +3,6 @@
   "consumer_secret" : "yourconsumersecret",
   "access_token_key" : "youraccesstokenkey",
   "access_token_secret" : "youraccesstokensecret",
-  "tracks" : ["ggjsap", "kawaz", "ねむい", "おなかすいた"]
+  "tracks" : ["ggjsap", "kawaz", "ねむい", "おなかすいた"],
+  "port" : 8080
 }
